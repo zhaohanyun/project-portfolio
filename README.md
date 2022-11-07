@@ -116,7 +116,7 @@ robot prototype![image-20221106001310237](https://github.com/zhaohanyun/project-
 
 Face recognition with Opencv and one-shot learning
 
-<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106002235602.png" alt="image-20221106002235602" style="zoom:50%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image--20221106002250651.png" alt="image-20221106002250651" style="zoom:50%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106002235602.png" alt="image-20221106002235602" style="zoom:50%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106002250651.png" alt="image-20221106002250651" style="zoom:50%;" />
 
 Demo video at: https://youtu.be/e6cj6U3KOOU
 
