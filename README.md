@@ -73,7 +73,7 @@ Edge detection by Canny Edge detector
 
 Color Half-toning with MVBQ-based Error Diffusion
 
-<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image--20221105235454798.png" alt="image-20221105235454798" style="zoom:55%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105235522031.png" alt="image-20221105235522031" style="zoom:48%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105235454798.png" alt="image-20221105235454798" style="zoom:55%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105235522031.png" alt="image-20221105235522031" style="zoom:48%;" />
 
 <img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105235602159.png" alt="image-20221105235602159" style="zoom: 80%;" />
 
