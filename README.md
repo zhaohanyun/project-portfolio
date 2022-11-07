@@ -19,7 +19,7 @@ Engine design：
 
 Final product：
 
-<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225436540.png" alt="image-20221105225436540" style="zoom:46%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225448201.png" alt="image-20221105225448201" style="zoom:46%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225531931.png" alt="image-20221105225531931" style="zoom: 40%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225543609.png" alt="image-20221105225543609" style="zoom: 40%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225436540.png" alt="image-20221105225436540" style="zoom:40%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225448201.png" alt="image-20221105225448201" style="zoom:40%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225531931.png" alt="image-20221105225531931" style="zoom: 35%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225543609.png" alt="image-20221105225543609" style="zoom: 35%;" />
 
 
 
@@ -51,7 +51,7 @@ Run example (get timeline by userid):
 
 The right half screen is testing program, left half is the result from crawler.
 
-![20221105_233916](C:\Users\Administrator\Documents\Tencent Files\2049964601\FileRecv\MobileFile\20221105_233916.png)
+![20221105_233916](https://github.com/zhaohanyun/project-portfolio/blob/main/images/20221105_233916.png)
 
 
 
@@ -67,7 +67,7 @@ Defog by CLAHE algorithm
 
 Edge detection by Canny Edge detector
 
-<img src="C:\Users\Administrator\Desktop\EE569\assignments\HW2\HW2_images\Tiger.jpg" alt="Tiger" style="zoom: 58%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105235040381.png" alt="image-20221105235040381" style="zoom:50%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/Tiger.jpg" alt="Tiger" style="zoom: 58%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105235040381.png" alt="image-20221105235040381" style="zoom:50%;" />
 
 
 
