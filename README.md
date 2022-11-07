@@ -19,7 +19,7 @@ Engine design：
 
 Final product：
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105225436540.png" alt="image-20221105225436540" style="zoom:46%;" /><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105225448201.png" alt="image-20221105225448201" style="zoom:46%;" /><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105225531931.png" alt="image-20221105225531931" style="zoom: 40%;" /><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105225543609.png" alt="image-20221105225543609" style="zoom: 40%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225436540.png" alt="image-20221105225436540" style="zoom:46%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225448201.png" alt="image-20221105225448201" style="zoom:46%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225531931.png" alt="image-20221105225531931" style="zoom: 40%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225543609.png" alt="image-20221105225543609" style="zoom: 40%;" />
 
 
 
@@ -33,13 +33,13 @@ Product demo video at: https://www.bilibili.com/video/BV1MB4y1k7wE/?vd_source=02
 
 ​	This project solves a classification for major and minor chord based on a audio data set which contains chords from two instruments, guitar and piano. Two primary tasks in this project is model selection and feature extraction. We’ve tried multiple machine learning models, including **MLP, SVM, and RF**, and two deep learning models, **AlexNet** and **ResNet18**. On each model, we spent effort tuning its hyperparameter, and obtained their best configurations. We’ve also tried multiple feature extraction methods, frequency spectrum peaks and MFCC for ML models, and frequency spectrum image for DL models. Among all models, ResNet18 achieve the highest accuracy 86.3%, while most other models are just slightly lower, namely around 80%. In terms of feature extraction, we did not find any advantage of MFCC over normal frequency spectrum peak method.
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105230649184.png" alt="image-20221105230649184" style="zoom: 80%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105230649184.png" alt="image-20221105230649184" style="zoom: 80%;" />
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105230715360.png" alt="image-20221105230715360" style="zoom: 80%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105230715360.png" alt="image-20221105230715360" style="zoom: 80%;" />
 
 Final result comparing among all models:
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105230806599.png" alt="image-20221105230806599" style="zoom:67%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105230806599.png" alt="image-20221105230806599" style="zoom:67%;" />
 
 
 
@@ -61,39 +61,39 @@ Lots of algorithms. Some examples:
 
 Defog by CLAHE algorithm
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105234636467.png" alt="image-20221105234636467" style="zoom:45%;" /><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105234711861.png" alt="image-20221105234711861" style="zoom: 45%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105234636467.png" alt="image-20221105234636467" style="zoom:45%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105234711861.png" alt="image-20221105234711861" style="zoom: 45%;" />
 
 
 
 Edge detection by Canny Edge detector
 
-<img src="C:\Users\Administrator\Desktop\EE569\assignments\HW2\HW2_images\Tiger.jpg" alt="Tiger" style="zoom: 58%;" /><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105235040381.png" alt="image-20221105235040381" style="zoom:50%;" />
+<img src="C:\Users\Administrator\Desktop\EE569\assignments\HW2\HW2_images\Tiger.jpg" alt="Tiger" style="zoom: 58%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105235040381.png" alt="image-20221105235040381" style="zoom:50%;" />
 
 
 
 Color Half-toning with MVBQ-based Error Diffusion
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105235454798.png" alt="image-20221105235454798" style="zoom:55%;" /><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105235522031.png" alt="image-20221105235522031" style="zoom:48%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image--20221105235454798.png" alt="image-20221105235454798" style="zoom:55%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105235522031.png" alt="image-20221105235522031" style="zoom:48%;" />
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105235602159.png" alt="image-20221105235602159" style="zoom: 80%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105235602159.png" alt="image-20221105235602159" style="zoom: 80%;" />
 
 
 
 Texture segmentation
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106000316947.png" alt="image-20221106000316947" style="zoom:120%;" /><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106000305367.png" alt="image-20221106000305367" style="zoom:150%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106000316947.png" alt="image-20221106000316947" style="zoom:120%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106000305367.png" alt="image-20221106000305367" style="zoom:150%;" />
 
 
 
 Image Stitching (merge 3 pictures taken in different perspectives)
 
-​	left&middle<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106000546074.png" alt="image-20221106000546074" style="zoom:80%;" />
+​	left&middle<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106000546074.png" alt="image-20221106000546074" style="zoom:80%;" />
 
-​	right&middle<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106000556879.png" alt="image-20221106000556879" style="zoom:80%;" />
+​	right&middle<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106000556879.png" alt="image-20221106000556879" style="zoom:80%;" />
 
 ​	merge
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106000608249.png" alt="image-20221106000608249" style="zoom:80%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106000608249.png" alt="image-20221106000608249" style="zoom:80%;" />
 
 
 
@@ -110,13 +110,13 @@ person
 
 top-level block diagram
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106001329094.png" alt="image-20221106001329094" style="zoom: 50%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106001329094.png" alt="image-20221106001329094" style="zoom: 50%;" />
 
-robot prototype![image-20221106001310237](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106001310237.png)
+robot prototype![image-20221106001310237](https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106001310237.png)
 
 Face recognition with Opencv and one-shot learning
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106002235602.png" alt="image-20221106002235602" style="zoom:50%;" /><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106002250651.png" alt="image-20221106002250651" style="zoom:50%;" />
+<img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106002235602.png" alt="image-20221106002235602" style="zoom:50%;" /><img src="https://github.com/zhaohanyun/project-portfolio/blob/main/images/image--20221106002250651.png" alt="image-20221106002250651" style="zoom:50%;" />
 
 Demo video at: https://youtu.be/e6cj6U3KOOU
 
@@ -130,4 +130,4 @@ My main role is to process medical images (any organ potentially) and make intel
 
 This is the recent work on gallbladder carcinoma. It's a segmentation task, solved by Unet.  First row random slices of CT images on gall bladder with tumor. Second row is mask(target) provided by doctors. Third row is our model's prediction.
 
-![image-20221106002954511](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221106002954511.png)
+![image-20221106002954511](https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221106002954511.png)
