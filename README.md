@@ -7,13 +7,13 @@
 
 UIUX design：
 
-![image-20221105224850292](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105224850292.png)
+![image-20221105224850292](https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105224850292.png)
 
 UIUX design interactive demo：https://www.figma.com/proto/DFv4uH82zFkSBEfEtT4ybn/Glister--UI%2FUX-DEMO?node-id=21%3A1313&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=21%3A1313&show-proto-sidebar=1
 
 Engine design：
 
-![image-20221105225313122](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221105225313122.png)
+![image-20221105225313122](https://github.com/zhaohanyun/project-portfolio/blob/main/images/image-20221105225313122.png)
 
 
 
